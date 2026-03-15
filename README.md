@@ -91,10 +91,6 @@ oop-marketing-campaigns-python/
 │
 ├── notebook/
 │   └── OOP_Fundamentals_Marketing_Campaigns.ipynb
-│
-├── data/
-│   ├──movie_data.txt
-│
 └── README.md
 </pre>
 </div>
