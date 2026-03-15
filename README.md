@@ -1,6 +1,6 @@
 <h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> OOP Fundamentals — Marketing Campaigns</h1>
 
-<img src="https://github.com/RadhikaDeshpande1010/OOP-Fundamentals-Marketing-Campaigns/blob/main/OOP%20Fundamentals%20Marketing%20Campaigns.png">
+<img src="https://github.com/RadhikaDeshpande1010/oop-marketing-campaigns-python/blob/main/marketing%20campaignss%20oops%20fundamentals.png">
 
 ## 📌 Project Overview
 
